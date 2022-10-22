@@ -9,7 +9,7 @@ The video demo is located in demo-video folder in our repository, and it is also
 
 <example>
  <p align="center">
-  <img src="demo-videos/thumbnail.gif" width="80%" height="80%" /></p>
+  <img src="demo-video/thumbnail.gif" width="80%" height="80%" /></p>
 
 ## References
   <a id="1">[1]</a> Rodrigo Mira, Alexandros Haliassos, Stavros Petridis, Bj̈orn W Schuller, and Maja Pantic, “Svts: Scalable video-to-speech synthesis,” arXiv preprint arXiv:2205.02058, 2022.
