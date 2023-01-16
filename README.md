@@ -4,8 +4,10 @@
 This repository contains a video demo of IEEE International Conference on Acoustics, Speech and Signal Processing submitted paper titled "Lip-to-Speech Synthesis in the Wild with Multi-task Learning"
 
 ## Demo video
-A demo video contains the original speech, the generated speech from previous state-of-the-art work <a id="1">[1]</a>, and the generated speech from the proposed method from three different speakers on both LRS2 and LRS3 datasets, respectively. 
-The video demo is located in demo-video folder in our repository, and it is also available in [here](https://youtu.be/1THDjGR_Jh0).
+A demo video contains the original speech, the generated speech from previous state-of-the-art work <a id="1">[1]</a>, and the generated speech from the proposed method from three different speakers on both LRS2 and LRS3 datasets, respectively, and six speakers on LRW dataset. 
+The video demo is located in demo-video folder in our repository, and it is also available in Youtube: 
+- LRS2 and LRS3 [[Demo Video]](https://youtu.be/1THDjGR_Jh0) 
+- LRW [[Demo Video]](https://youtu.be/i87Ikj9JcDY)
 
 <example>
  <p align="center">
